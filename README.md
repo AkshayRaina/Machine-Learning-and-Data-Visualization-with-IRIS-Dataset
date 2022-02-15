@@ -1,2 +1,2 @@
-# Machine-Learning-and-Data-Visualization-with-IRIS-Dataset
-Machine-Learning-and-Data-Visualization-with-IRIS-Dataset
+# Machine-Learning-and-Visualization-on-IRIS-Dataset
+Machine-Learning-and-Visualization-on-IRIS-Dataset
