@@ -3,21 +3,13 @@ Machine-Learning-using-KNN-Classifier-and-Logistic-Regressin-and-Visualization-o
 
 ### Demonstration of how to load IRIS dataset, visualize and build a KNN Classifier and Logistic Regression model on it and predict accuracy.
 
-## - Iris Data Set
+## Iris Data Set
 Download: [Data Folder](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/), [Data Set Description](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.names)
 Abstract: Famous database; from Fisher, 1936
 
 - Reference: https://archive.ics.uci.edu/ml/datasets/iris :
 
-Data Set Characteristics:  Multivariate
-Number of Instances: 150
-Area: Life
-Attribute Characteristics: Real
-Number of Attributes: 4
-Date Donated: 1988-07-01
-Associated Tasks: Classification
-Missing Values?: No
-Number of Web Hits: 4501806
+Data Set Characteristics: Multivariate | Number of Instances: 150 | Area: Life | Attribute Characteristics: Real | Number of Attributes: 4 | Date Donated: 1988-07-01 | Associated Tasks: Classification | Missing Values?: No | Number of Web Hits: 4501806
 
 - Source:
 
