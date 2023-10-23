@@ -40,3 +40,6 @@ This data differs from the data presented in Fishers article (identified by Stev
     - Iris Setosa
     - Iris Versicolour
     - Iris Virginica
+
+
+NOTE: Do not Plagiarise | Submitted Report for project and assignment | Strict checks in place
